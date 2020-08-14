@@ -23,6 +23,11 @@ Commit your code regularly and meaningfully. This helps both you (in case you ev
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
 1. How would you describe acessibility on the web to someone new to programming?
+
+<!-- Accessibility on the web is the practice of making webpages and web applications universally usable (or usable to the widest possible range of users), regardless of how individuals interact with the web (i.e. individuals with disabilities, and/or individuals utilizing varying device types). There are many ways that web developers can incorporate accessibility into their webpages, including but not necessarily limited to:
+    1) creating responsive layouts and designs---making the webpage work and look good at different device sizes by utilizing scalable units--- designing colors that take into account individuals with various kinds of visual impairments; 
+    2) ensuring the website content is organized and marked up at the HTML level in as clear and semantic way way as possible. This not only optimizes search engine funcitonality for all users, but is particularly important for creating web pages that are compatible with screen readers for users who interact with the site content by audio instead of visual.
+
 2. Talk about 3 different things you can do to ensure your website is accessible. 
 3. How would you explain the concept of a variable to someone new to programming?
 4. What is the purpose of using functions in code?
