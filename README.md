@@ -23,9 +23,31 @@ Commit your code regularly and meaningfully. This helps both you (in case you ev
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
 1. How would you describe acessibility on the web to someone new to programming?
+
+<!-- 
+Accessibility on the web is the practice of making webpages and web applications universally usable (or usable to the widest possible range of users). Accessible web applications should be usable regardless of how individuals interact with the website. Accessible web design takes into account . 
+-->
+
 2. Talk about 3 different things you can do to ensure your website is accessible. 
+
+<!--
+Three ways that designers can ensure that their websites are accessible include:
+    1) creating responsive layouts and designs. This means making the webpage work and look good at different sizes by utilizing scalable units such as percentages and REMs and utilizing media queries which will adjust styles based on device size.
+    2) utilizing colors that take into account individuals with various kinds of visual impairments (e.g. color-blindness). This means optimizing color contrast between elements on the page and the page body to ensure visibility and readability across a range of visual abilities.
+    2) ensuring the website content is organized and marked up at the HTML level in as clear and semantic way as possible. This not only optimizes search engine funcitonality for all users, but is particularly important for creating web pages that are compatible with screen readers for users who interact with the site content by audio instead of visual. 
+    -->
+
+
 3. How would you explain the concept of a variable to someone new to programming?
+
+<!-- 
+Variables can be thought of as containers in JavaScript that allow us to store, change, and use data in our code. Variables can store a variety of data types in JS such numbers, strings of text, true or false value statements called Booleans, and even other data containers such as arrays, objects, and functions. By declaring, or creating, a variable in JS we can then access and manipulate these data types stored inside the variable in dynamic ways in our code.
+-->
+
 4. What is the purpose of using functions in code?
+
+<!--Functions are containers that can be used to store multiple lines of code, that can then be reused over and over again. By inserting a particular line of code or lines of code into a function, we can then make use of function parameters (which are placeholders for variables inside the function) to execute the code on whatever data we would like to pass in (called arguments).
+-->
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
